@@ -1,0 +1,113 @@
+  body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      color: #333;
+      padding: 20px;
+    }
+
+    input[type="text"] {
+      padding: 10px;
+      width: 200px;
+      margin-right: 10px;
+    }
+
+    button {
+      padding: 10px 15px;
+    }
+
+    #result {
+      margin-top: 20px;
+    }
+
+    h2, h3 {
+      margin: 5px 0;
+    }
+
+    #icon img {
+      width: 50px;
+      height: 50px;
+    }
+
+    #viewport {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    #cityname, #temp, #description, #humidity, #wind, #pressure, #icon, #sunrise {
+      text-align: left;
+      margin-left: 20px;
+    }
+
+    #cityname {
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    #temp {
+      font-size: 20px;
+    }
+
+    #description {
+      font-size: 18px;
+    }
+
+    #humidity, #wind, #pressure, #sunrise {
+      font-size: 16px;
+    }
+
+    #icon {
+      margin-top: 10px;
+    }
+
+    #sunrise {
+      font-size: 16px;
+      margin-top: 10px;
+    }
+
+    #result h3 {
+      color: red;
+    }
+
+    #result h3:nth-child(2) {
+      color: green;
+    }
+
+    #result h3:nth-child(3) {
+      color: blue;
+    }
+
+    #result h3:nth-child(4) {
+      color: orange;
+    }
+
+    #result h3:nth-child(5) {
+      color: purple;
+    }
+
+    #result h3:nth-child(6) {
+      color: brown;
+    }
+
+    #result h3:nth-child(7) {
+      color: pink;
+    }
+
+    #result h3:nth-child(8) {
+      color: gray;
+    }
+
+    #result h3:nth-child(9) {
+      color: teal;
+    }
+
+    #result h3:nth-child(10) {
+      color: navy;
+    }
+
+    #result h3:nth-child(11) {
+      color: maroon;
+    }
+
+    #result h3:nth-child(12) {
+      color: olive;
+    }
